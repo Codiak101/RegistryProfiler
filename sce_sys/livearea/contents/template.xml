@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<livearea style="a2" format-ver="01.00" content-rev="1">
+	<livearea-background>
+		<image>bg.png</image>
+	</livearea-background>
+	<gate>
+		<startup-image>startup.png</startup-image>
+	</gate>
+	<frame id="frame1">
+		<liveitem>
+			<background>vita_docs.png</background>
+			<target>https://manuals.playstation.net/document/en/psvita/index.html</target>
+		</liveitem>
+	</frame>
+	<frame id="frame2">
+		<liveitem>
+			<background>pstv_docs.png</background>
+			<target>https://manuals.playstation.net/document/en/pstv/index.html</target>
+		</liveitem>
+	</frame>
+	<frame id="frame3">
+		<liveitem>
+			<background>manual.png</background>
+			<target>https://github.com/Codiak101/RegistryProfiler/blob/main/README.md</target>
+		</liveitem>
+	</frame>
+</livearea>
