@@ -4,8 +4,9 @@
 This app allows certain registry values like the ones for brightness & volume to change and saved into profiles. The first menu gives the options to manage the profiles stored in a created file. When the app is first launched it saves a default profile of the device's current values along with any others later created. The horizontal menu gives the registry categories each containing the settings, some are checkboxes and others are number entries.
 
 ## Requirements
+![image](https://user-images.githubusercontent.com/78706679/148661904-d7723676-ddfd-4643-b887-8e708d270714.png)
 - A hacked device - either phat OLED model, slim LED model or PSTV
-- An app to install Released VPK
+- An app to install [Released VPK](<https://github.com/Codiak101/RegistryProfiler/releases/latest>)
 
 ## Controls
 ![image](https://user-images.githubusercontent.com/78706679/148660497-e6c4ee3d-8289-4963-971d-70a3bd2a642d.png)
